@@ -1,0 +1,17 @@
+Loop is use to execute the bunch of statement for multiple time
+->By default index 0.
+->By default execute infinite time.
+------------------------------------------------------------------------------
+Types:-
+
+1.Entry control :-
+-> Control the entry and easily exit
+-> If condition is false then loop isn't execute
+    i.For Loop
+    ii. While Loop
+
+2.Exit Control :-
+->Easily enter in loop 
+->By default execute 1 time.
+->If condition is false even though your execute at least one time.
+    i.Do-While Loop
