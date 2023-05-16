@@ -1,0 +1,45 @@
+- Function is a block of statements
+- Function is a block of statements that return a value
+- Function is a block of statements that return a value and can be called
+------------------------------------------------------------------------------------
+
+Types:-
+    1.Built-in
+        -> Which are already available
+        -> Which are available to all
+        for ex., strcmp(), strlen(), printf(), scanf()
+    -------------------------------------------------------------------
+
+    2.UDF(User Define Function)
+        ->Which was created by the user.
+        ->Which is callable by the user.
+        ->Compulsory you have to define the function inside the  global section.
+        ->You can initialize it anywhere
+
+
+
+        syntax:
+            data_type(return_type) function_name (parameter / argument)
+            {
+                //Function body
+            }
+        for ex., int func(int a)
+                 {
+                     //function body
+                     return 0;
+                 }
+
+        Types:-
+            1.Without Return value Without parameter
+            -> Syntax: void add(){}
+            
+            2.Without return value With parameter
+            -> Syntax: void add(int a, int b){}
+
+            3.With return value Without parameter
+            -> Syntax: int add(){}
+           
+            4.With return value With parameter
+            -> Syntax: int add(int a, int b){}
+            
+            
