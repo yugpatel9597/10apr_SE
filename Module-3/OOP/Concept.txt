@@ -1,0 +1,23 @@
+OOP - Object Oriented Programming
+
+Concept:-
+
+1. Class:-
+->Class is a collection of data member(variable which was define inside the class) and member function(a function which was define inside the class)
+
+->Class is the blue print of the object
+
+2. Object:-
+->Object is a instance of the class
+
+3. Inheritance:-
+->
+
+4. Encapsulation:-
+->
+
+5. Abstraction:-
+->
+
+6. Polymorphism:-
+->
