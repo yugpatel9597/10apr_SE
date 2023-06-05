@@ -2,9 +2,9 @@
 using namespace std;
 class Demo
 {
+public:
     int id;
     string name;
-public:
     int getdata(){
         cout<<"Enter id : ";
         cin>> id;

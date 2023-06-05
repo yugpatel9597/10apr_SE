@@ -14,10 +14,10 @@ Concept:-
 ->
 
 4. Encapsulation:-
-->
+->Wrapping up the data
 
 5. Abstraction:-
-->
+->Hide the background detail which was unnecessary for the user
 
 6. Polymorphism:-
 ->
