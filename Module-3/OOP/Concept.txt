@@ -11,7 +11,7 @@ Concept:-
 ->Object is a instance of the class
 
 3. Inheritance:-
-->
+->Reusability of class
 
 4. Encapsulation:-
 ->Wrapping up the data
